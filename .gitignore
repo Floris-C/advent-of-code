@@ -1,6 +1,9 @@
 #hiding aoc inputs
 inputs/
 
+#hiding golang module requirements/sums
+*.mod
+*.sum
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
