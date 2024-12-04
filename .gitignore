@@ -1,5 +1,6 @@
 #hiding aoc inputs
 inputs/
+aoc-24/example.txt
 
 #hiding golang module requirements/sums
 *.mod
