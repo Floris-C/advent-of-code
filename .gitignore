@@ -1,6 +1,6 @@
 #hiding aoc inputs
 inputs/
-
+aoc-24/example.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
