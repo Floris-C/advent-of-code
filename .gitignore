@@ -2,6 +2,10 @@
 inputs/
 aoc-24/example.txt
 
+#hiding golang module requirements/sums
+*.mod
+*.sum
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
